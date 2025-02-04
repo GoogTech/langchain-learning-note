@@ -1,5 +1,18 @@
-学习笔记目录结构：
+<a href="https://colab.research.google.com/github/GoogTech/langchain-learning-note/blob/master/langchain_learning_note.ipynb">
+<img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+<br>
+<br>
 
+版本信息：
+```
+langchain                          0.3.16
+langchain-community                0.3.16
+langchain-core                     0.3.33
+langchain-openai                   0.3.3
+```
+
+学习笔记目录结构：
 ```
 01.Hello Langchain
 └── 1.安装最新版的库: langchain, openai
